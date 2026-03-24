@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class CheckCollision : MonoBehaviour
 {
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public int playerDamage = 30;
     public int enemyDamage = 30;
